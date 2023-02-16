@@ -9,7 +9,7 @@ For the past few years, Yellevate has been struggling with client disputes. Yell
 services and refusing to pay for them. This has been a huge financial burden for the company: statistically, nearly 20% of the disputes raised against Yellevate resulted in a payment opt-out. This has led to an approximate 5% annual loss of revenue (in USD). Management wants our team to help resolve the issue. Using data the company
 collected about these disputes, we will have to identify their causes and come up with actionable strategies to solve them.
 
-#Objectives
+# Objectives
 1. Understand how long the processing time to settle invoices for all clients
 2. Determine processing time to settle all disputes among clients in all regions
 3. Identify the region where most disputes are coming from and how huge the number is compared to other clients
